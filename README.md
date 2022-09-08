@@ -10,7 +10,6 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>JAVASCRIPT</li>
-  <li>jQuery</li>
   <li>NODEJS</li>
   <li>MONGODB (basics)</li>
   <li>SQL (basics)</li>
