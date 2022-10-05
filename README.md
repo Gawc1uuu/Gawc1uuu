@@ -11,10 +11,7 @@
   <li>CSS</li>
   <li>JAVASCRIPT</li>
   <li>NODEJS</li>
-  <li>MONGODB (basics)</li>
-  <li>SQL (basics)</li>
-  <li>EXPRESS (basics)</li>
-  <li>REACT (in progress...⚙️)</li>
+  <li>REACT</li>
 </ul>
 
 <!---
