@@ -14,6 +14,7 @@
   <li>SQL</li>
   <li>MONGODB</li>
   <li>EXPRESS</li>
+  <li>FIREBASE</li>
   <li>REACT</li>
 </ul>
 
