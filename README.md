@@ -1,6 +1,6 @@
 <h1>Hello 😃</h1>
 
-<p>My name is Jakub. I am a Frontend Developer</p>
+<p>My name is Jakub.</p>
 <p>🔧 All of my projects are available here on my GitHub profile.. </p>
 <p>📨 If you want to contact me send me an email at: <a> gawlikjakub9@gmail.com </a> </p>
 <p>🔗 or invite me on linkedin https://www.linkedin.com/in/jakub-gawlik-7b7465248/ </p>
