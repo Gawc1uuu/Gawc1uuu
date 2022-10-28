@@ -11,7 +11,7 @@
   <li>CSS</li>
   <li>JAVASCRIPT</li>
   <li>NODEJS</li>
-  <li>SQL</li>
+  <li>MySQL</li>
   <li>MONGODB</li>
   <li>EXPRESS</li>
   <li>FIREBASE</li>
