@@ -9,7 +9,7 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>JAVASCRIPT</li>
+  <li>JAVASCRIPT, TYPESCRIPT</li>
   <li>NODEJS</li>
   <li>MySQL</li>
   <li>MONGODB</li>
