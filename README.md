@@ -8,14 +8,14 @@
 <h2>🛠️Technologies I work with: </h2>
 <ul>
   <li>HTML</li>
-  <li>CSS</li>
-  <li>JAVASCRIPT, TYPESCRIPT</li>
-  <li>NODEJS</li>
+  <li>CSS,Tailwind CSS</li>
+  <li>JavaScript, TypeScript</li>
+  <li>NodeJS</li>
   <li>MySQL</li>
-  <li>MONGODB</li>
-  <li>EXPRESS</li>
-  <li>FIREBASE</li>
-  <li>REACT</li>
+  <li>MongoDB</li>
+  <li>Express</li>
+  <li>Firebase</li>
+  <li>React</li>
 </ul>
 
 <!---
