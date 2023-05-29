@@ -11,10 +11,8 @@
   <li>CSS,Tailwind CSS</li>
   <li>JavaScript, TypeScript</li>
   <li>NodeJS</li>
-  <li>MySQL</li>
   <li>MongoDB</li>
   <li>Express</li>
-  <li>Firebase</li>
   <li>React</li>
 </ul>
 
